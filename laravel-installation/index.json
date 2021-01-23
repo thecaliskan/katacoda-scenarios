@@ -26,7 +26,14 @@
     }
   },
   "environment": {
-    "uilayout": "terminal"
+    "showdashboard": true,
+    "dashboards": [
+      {"name": "Port 80", "port": 80}
+    ],
+    "uieditorpath": "/root/example",
+    "showide": true,
+    "idePort": 23000,
+    "uilayout": "terminal-iframe"
   },
   "backend": {
     "imageid": "ubuntu:2004"
