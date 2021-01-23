@@ -1,0 +1,13 @@
+# Override the strings in the UI
+continue: "İlerle"
+start_scenario: "Eğitimi Başlat"
+welcome: "Merhaba"
+difficulty: "Zorluk"
+time: "Süre"
+steps: "Adımlar"
+step: "Adım"
+of: " - "
+answer: "Cevap"
+solution: "Çözüm"
+show: "Göster"
+terminal: "Terminal"

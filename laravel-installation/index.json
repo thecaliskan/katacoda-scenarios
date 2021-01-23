@@ -1,20 +1,20 @@
 {
-  "title": "Laravel Installation",
-  "description": "",
-  "difficulty": "Beginner",
-  "time": "",
+  "title": "Laravel Kurulumu",
+  "description": "Bir web uygulaması oluştururken kullanabileceğiniz çeşitli araçlar ve kütüphaneler vardır. Bununla birlikte, Laravel'in modern, web uygulamaları oluşturmak için en iyi seçim olduğuna inanıyoruz.",
+  "difficulty": "Acemi",
+  "time": "15 Dakika",
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Adım 1",
         "text": "step1.md"
       },
       {
-        "title": "Step 2",
+        "title": "Adım 2",
         "text": "step2.md"
       },
       {
-        "title": "Step 3",
+        "title": "Adım 3",
         "text": "step3.md"
       }
     ],
