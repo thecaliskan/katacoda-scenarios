@@ -30,7 +30,7 @@
     "dashboards": [
       {"name": "Site", "port": 80}
     ],
-    "uieditorpath": "/root/example-app",
+    "uieditorpath": "/root",
     "showide": true,
     "idePort": 23000,
     "uilayout": "terminal-iframe"

@@ -2,7 +2,6 @@ A Katacoda scenario is a series of Markdown files, bash scripts and a JSON file 
 
 ## Task
 
-Update the apt package index and install packages to allow apt to use a repository over HTTPS:
 
 `curl -s https://laravel.build/example-app | bash`{{execute}}
 
@@ -11,3 +10,5 @@ Update the apt package index and install packages to allow apt to use a reposito
 
 
 `./vendor/bin/sail up -d`{{execute}}
+
+`chmod -R 755 storage`{{execute}}
