@@ -1,6 +1,6 @@
 {
   "title": "Laravel Kurulumu",
-  "description": "Bir web uygulaması oluştururken kullanabileceğiniz çeşitli araçlar ve kütüphaneler vardır. Bununla birlikte, Laravel'in modern, web uygulamaları oluşturmak için en iyi seçim olduğuna inanıyoruz.",
+  "description": "Bir web uygulaması oluştururken kullanabileceğiniz çeşitli araçlar ve kütüphaneler vardır. Bununla birlikte, Laravel'in modern web uygulamaları oluşturmak için en iyi seçim olduğuna inanıyoruz.",
   "difficulty": "Acemi",
   "time": "15 Dakika",
   "details": {
