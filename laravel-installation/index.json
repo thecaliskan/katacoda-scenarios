@@ -28,9 +28,9 @@
   "environment": {
     "showdashboard": true,
     "dashboards": [
-      {"name": "Port 80", "port": 80}
+      {"name": "Site", "port": 80}
     ],
-    "uieditorpath": "/root/example",
+    "uieditorpath": "/root/example-app",
     "showide": true,
     "idePort": 23000,
     "uilayout": "terminal-iframe"
