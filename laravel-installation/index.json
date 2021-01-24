@@ -7,15 +7,23 @@
     "steps": [
       {
         "title": "Docker Kurulumu",
-        "text": "step1.md"
+        "text": "step1.md",
+        "verify": "step1-verify.sh"
       },
       {
         "title": "Laravel Kurulumu",
-        "text": "step2.md"
+        "text": "step2.md",
+        "verify": "step2-verify.sh"
       },
       {
         "title": "Yapılandırma",
-        "text": "step3.md"
+        "text": "step3.md",
+        "verify": "step3-verify.sh"
+      },
+      {
+        "title": "Kontrol",
+        "text": "step4.md",
+        "verify": "step4-verify.sh"
       }
     ],
     "intro": {
@@ -30,9 +38,6 @@
     "dashboards": [
       {"name": "Site", "port": 80}
     ],
-    "uieditorpath": "/root",
-    "showide": true,
-    "idePort": 23000,
     "uilayout": "terminal-iframe"
   },
   "backend": {

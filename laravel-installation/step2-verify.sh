@@ -1,0 +1,1 @@
+docker ps | grep -q sail && echo "Done"
