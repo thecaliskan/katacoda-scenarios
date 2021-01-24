@@ -2,6 +2,6 @@ Uygulamanın Docker kapsayıcıları başlatıldıktan sonra, uygulamaya web tar
 
 ## Kontrol
 
-Site sekmesine geçebilir veya linke tıklayarak kurulumu kontrol edebilirsiniz.
+Linke tıklayarak kurulumu kontrol edebilirsiniz.
 
 https://[[HOST_SUBDOMAIN]]-80-[[KATACODA_HOST]].environments.katacoda.com
