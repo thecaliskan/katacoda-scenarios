@@ -1,1 +1,1 @@
-curl  http://localhost/ | grep -q Laravel && echo "done"
+curl -s -N http://localhost/ | grep -q Laravel && echo "done"
