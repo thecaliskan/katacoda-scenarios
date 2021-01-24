@@ -1,0 +1,1 @@
+sudo service docker status | grep -q running && echo "Done"
