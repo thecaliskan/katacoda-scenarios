@@ -9,6 +9,7 @@ Laravel Sail'i sunar. Sail laravel projenizi Docker kullanarak çalıştırmak i
 APT Paket dizinini güncelleyin.
 
 `sudo apt-get update`{{execute}}
+(Bu komutu çalıştırmak için lütfen komutun üzerine basın.)
 
 APT ile depo kullanımına izin vermek için paketleri yükleyin.
 
