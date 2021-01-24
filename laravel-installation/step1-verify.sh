@@ -1,1 +1,1 @@
-sudo service docker status | grep -q running && echo "Done"
+sudo service docker status | grep -q running && docker image ls | grep -q hello-world &&  echo "Done"
