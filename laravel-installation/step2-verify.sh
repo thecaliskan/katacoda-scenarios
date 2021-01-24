@@ -1,1 +1,1 @@
-docker ps | grep -q sail && echo "Done"
+docker ps | grep -q sail && echo "done"
