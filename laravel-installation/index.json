@@ -6,15 +6,15 @@
   "details": {
     "steps": [
       {
-        "title": "Adım 1",
+        "title": "Docker Kurulumu",
         "text": "step1.md"
       },
       {
-        "title": "Adım 2",
+        "title": "Laravel Kurulumu",
         "text": "step2.md"
       },
       {
-        "title": "Adım 3",
+        "title": "Yapılandırma",
         "text": "step3.md"
       }
     ],

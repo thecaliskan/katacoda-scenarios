@@ -11,4 +11,3 @@ A Katacoda scenario is a series of Markdown files, bash scripts and a JSON file 
 
 `./vendor/bin/sail up -d`{{execute}}
 
-`chmod -R 755 storage`{{execute}}
