@@ -1,1 +1,1 @@
-[ $(stat -c %a /home/example-app/storage/) = 777 ] && echo "done"
+[ $(stat -c %a /root/example-app/storage/) = 777 ] && echo "done"

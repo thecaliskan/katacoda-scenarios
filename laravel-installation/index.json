@@ -2,28 +2,24 @@
   "title": "Laravel Kurulumu",
   "description": "Bir web uygulaması oluştururken kullanabileceğiniz çeşitli araçlar ve kütüphaneler vardır. Bununla birlikte, Laravel'in modern web uygulamaları oluşturmak için en iyi seçim olduğuna inanıyoruz.",
   "difficulty": "Acemi",
-  "time": "15 Dakika",
+  "time": "30 Dakika",
   "details": {
     "steps": [
       {
-        "title": "Docker Kurulumu",
-        "text": "step1.md",
-        "verify": "step1-verify.sh"
+        "title": "Docker",
+        "text": "step1.md"
       },
       {
-        "title": "Laravel Kurulumu",
-        "text": "step2.md",
-        "verify": "step2-verify.sh"
+        "title": "Laravel",
+        "text": "step2.md"
       },
       {
         "title": "Yapılandırma",
-        "text": "step3.md",
-        "verify": "step3-verify.sh"
+        "text": "step3.md"
       },
       {
         "title": "Kontrol",
-        "text": "step4.md",
-        "verify": "step4-verify.sh"
+        "text": "step4.md"
       }
     ],
     "intro": {
